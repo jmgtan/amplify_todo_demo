@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amp-todo-demo-dev-20190814121705-authRole",
+            "UnauthRoleArn": "arn:aws:iam::284546856933:role/amp-todo-demo-dev-20190814121705-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::284546856933:role/amp-todo-demo-dev-20190814121705-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amp-todo-demo-dev-20190814121705-deployment",
+            "UnauthRoleName": "amp-todo-demo-dev-20190814121705-unauthRole",
+            "StackName": "amp-todo-demo-dev-20190814121705",
+            "StackId": "arn:aws:cloudformation:eu-west-1:284546856933:stack/amp-todo-demo-dev-20190814121705/0c7fca20-be85-11e9-a666-0224bbdd2424"
+        },
+        "categories": {
+            "auth": {
+                "amptododemo93a470d4": {}
+            }
+        }
+    }
+}

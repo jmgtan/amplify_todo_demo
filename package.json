@@ -3,6 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@aws-amplify/analytics": "^1.2.23",
+    "@aws-amplify/api": "^1.0.42",
+    "@aws-amplify/auth": "^1.2.31",
+    "@aws-amplify/interactions": "^1.0.35",
+    "@aws-amplify/storage": "^1.1.0",
+    "@aws-amplify/ui": "^1.0.23",
+    "@aws-amplify/xr": "^0.1.22",
+    "aws-amplify": "^1.1.36",
+    "aws-amplify-react": "^2.3.12",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1"
